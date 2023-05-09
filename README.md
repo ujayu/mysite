@@ -1,1 +1,2 @@
-# mysite
+# mySite
+practice project
